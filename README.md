@@ -32,5 +32,13 @@ Prioritize official statements and established newsrooms; check original publica
 No server, analytics, cookies, user registration, API keys or donations. Language selector translates site interface; news summaries are currently hand-written in English and Slovak, with English fallback in the other six languages until editorially reviewed translations are added. The validator is not an autonomous news monitor. GitHub Pages service availability and quotas follow GitHub's current terms.
 
 
-## Hero photograph / photo attribution
-The hero loads a historical photograph of Oleshky central square (photographed 14 August 2007), credited to Gottinight, via Wikimedia Commons, CC BY-SA 3.0. The site explicitly labels it as historical and NOT evidence of 2026 conditions. Photo URL and license are linked on the page. If Wikimedia is unavailable, the dark background remains readable. No AI-generated image is presented as a documentary photograph. For authentic 2023 flooding footage see https://commons.wikimedia.org/wiki/File:Flooded_Oleshky,_2023-06-07.webm (Mvs.gov.ua, CC BY 4.0); do not describe that footage as 2026.
+## Hero photography / Fotografia v hlavičke
+The page currently contains a custom architectural illustration, **not a real photograph**.
+The authentic aerial image discussed is published at:
+https://nikvesti.com/news/politics/324455-ukraina-vymahaie-uvahy-osce-sytuatsii-okupovanykh-oleshkakh
+We have **not verified reuse permission**, so the copyrighted photo is not copied into this ZIP.
+To replace the illustration once you obtain permission: save the licensed image as
+`assets/oleshky-hero.jpg`, open `assets/style.css`, find the line beginning
+`/* After permission:` and uncomment the `.hero-art` background-image rule.
+Provide attribution according to the license/permission and document the capture date.
+Do not label historical footage as showing the current crisis.
