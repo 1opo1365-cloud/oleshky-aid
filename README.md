@@ -1,15 +1,9 @@
-# OLESHKY – Humanitarian Access
+# OLESHKY – 8-language GitHub Pages website
 
-## Dôležité: obrázok na úvodnej stránke
-Úvodný obrázok `assets/hero-illustration.webp` je **AI-generovaná ilustrácia**, NIE autentická fotografia Olešiek. Vytvorené postavy, budovy a rieka nie sú dokumentárne zábery. Textový fotografický kredit vo vnútri ilustrácie je generovaný a **nie je pravdivým kreditom**. Preto je na stránke viditeľné upozornenie na ilustráciu. Nešírte tento obrázok ako skutočnú fotografiu.
+Upload all contents of this ZIP to the ROOT of the GitHub repository (including assets/ and data/), then commit. GitHub Pages must be configured to deploy from the main branch root.
 
-## Publikovanie na GitHub Pages
-1. Rozbaľte ZIP.
-2. V repozitári `oleshky-aid` na GitHube otvorte **Add file → Upload files**.
-3. Pretiahnite celý **obsah** rozbaleného priečinka (nie obalový priečinok), vrátane `assets`, `data`, `scripts` a `.github`.
-4. Potvrďte **Commit changes**.
-5. V **Settings → Pages** nastavte vetvu, do ktorej ste súbory nahrali, a priečinok `/ (root)`.
-6. Po publikovaní stlačte Ctrl+F5.
+The hero shows an AI-generated illustrative image, not a genuine photograph. The photo credit from HN cannot be copied or republished without permission. The image is explicitly labeled as AI. All hero and navigation text is real HTML and changes with the selected language (8 languages).
 
-## Obsah a aktualizácie
-Správy sú datované, nie živé. Skontrolujte ich pred šírením. Preklady hlavného rozhrania sú v `data/translations.json`, zdrojované aktualizácie v `data/updates.json`. Nie všetky správy sú kompletne preložené do všetkých jazykov. Žiadne dary sa tu nevyberajú a web neslúži na koordináciu evakuácií.
+The headline “Crossing minefields for food” is an editorial summary of reported humanitarian conditions, not a verified quotation from a specific person. Sources should be checked and updated regularly.
+
+Original reporting: https://hnonline.sk/svet/96304651-ukrajina-zhodila-do-okupovanych-olesiek-pomocou-dronov-styri-tony-potravin
